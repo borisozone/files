@@ -1,0 +1,51 @@
+{
+  "nameSwap": {
+    "replacementFirstName": "Дмитрий",
+    "replacementLastInitial": "П."
+  },
+  "accountWidget": {
+    "balance": "67405,24 ₽",
+    "cardLastDigits": "4235"
+  },
+  "dates": [
+    "Сегодня",
+    "Вчера"
+  ],
+  "operations": [
+    {
+      "index": 0,
+      "category": "transfer",
+      "title": "",
+      "description": "Переводы",
+      "amount": "- 8500 ₽",
+      "iconUrl": "icon.png"
+    },
+    {
+      "index": 1,
+      "category": "topup",
+      "title": "Антон Андреевич Л.",
+      "description": "Пополнения",
+      "amount": "+ 7500 ₽"
+    },
+    {
+      "index": 2,
+      "category": "transfer",
+      "title": "Антон Андреевич П.",
+      "description": "Перевод",
+      "amount": "− 600 ₽"
+    }
+  ],
+  "operationCard": {
+    "bankTo": "sas",
+    "receiver": "Ольга Сергеевна Т.",
+    "phone": "+7 (904) 198-94-00",
+    "iconUrl": "icon.png"
+  },
+  "monthExpensesTitle": "За август",
+  "spendingsWidget": {
+    "expenses": "27525 ₽",
+    "income": "43540 ₽"
+  },
+  "aggeragationAmountTransfer": "100000 ₽",
+  "receiptUrl": "receipt.pdf"
+}

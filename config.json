@@ -1,0 +1,58 @@
+{
+  "nameSwap": {
+    "replacementFirstName": "Вячеслав ",
+    "replacementLastInitial": "З."
+  },
+  "accountWidget": {
+    "balance": "67405,24 ₽",
+    "cardLastDigits": "4235"
+  },
+  "dates": [
+    "Сегодня",
+    "Вчера"
+  ],
+  "operations": [
+    {
+      "index": 0,
+      "category": "transfer",
+      "title": "Talip S.",
+      "description": "Перевод ",
+      "amount": "- 15625 ₽",
+      "iconUrl": "IMG_6394.PNG"
+    },
+    {
+      "index": 2,
+      "category": "transfer",
+      "title": "Перевод на карту *6666",
+      "description": " Перевод • Карта **6666",
+      "amount": "- 5000 ₽"
+    },
+    {
+      "index": 1,
+      "category": "transfer",
+      "title": "Антон Андреевич Л.",
+      "description": "Перевод",
+      "amount": "− 600 ₽"
+    }
+  ],
+  "detail": {
+    "bankTo": "Райффайзен Банк",
+    "operationPhone": {
+      "receiver": "Talip S.",
+      "phone": "+7 (915) 002-94-43"
+    },
+    "operationCard": {
+      "comission": "Комиссия 44 ₽",
+      "receiver": "•• 6666"
+    },
+    "iconUrl": "IMG_6394.PNG"
+  },
+  "monthExpensesTitle": "За сентябрь ",
+  "spendingsWidget": {
+    "expenses": "127525,77 ₽",
+    "income": "43540,09 ₽"
+  },
+  "aggeragationAmountTransfer": "32572.54 ₽",
+  "receiptUrl": "receipt.pdf",
+  "timeMobile": "12.09.2026, 12:33"
+}
